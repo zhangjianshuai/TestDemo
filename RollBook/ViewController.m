@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"打印log: hello world！");
+    NSLog(@"打印log: hello 帅哥！");
     
 }
 
